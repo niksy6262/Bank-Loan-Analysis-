@@ -1,0 +1,14 @@
+{
+  "total_applications": 10000,
+  "approved_loans": 6794,
+  "approval_rate_pct": 67.94,
+  "total_disbursed": 7490935000,
+  "avg_loan_size": 1102581.0,
+  "avg_interest_rate_pct": 10.55,
+  "avg_dti_pct": 42.17,
+  "good_loans": 6349,
+  "bad_loans": 445,
+  "good_loan_pct": 93.45,
+  "default_rate_pct": 6.55,
+  "amount_at_risk_pct": 5.82
+}

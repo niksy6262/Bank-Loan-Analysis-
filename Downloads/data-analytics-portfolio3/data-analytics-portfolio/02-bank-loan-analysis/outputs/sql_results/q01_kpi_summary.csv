@@ -1,0 +1,2 @@
+total_applications,approved_loans,approval_rate_pct,total_disbursed,avg_loan_size,avg_interest_rate_pct,avg_dti_pct,good_loans,bad_loans,good_loan_pct,default_rate_pct
+10000,6794,67.94,7490935000,1102581.0,10.55,42.17,6349,445,93.45,6.55
